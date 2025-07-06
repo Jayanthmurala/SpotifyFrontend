@@ -167,8 +167,7 @@ coverImage: <file>
 
 - **Postman Collections**: Available for testing all API endpoints.
 - **Dummy Data**: Auto-seeded for demo purposes.
-- **Recommendation**: Share Postman collections via a public link or include a JSON file in the repository.
-
+  
 ---
 
 ## 🛡️ Security Notes
@@ -176,10 +175,6 @@ coverImage: <file>
 - **Authentication**: JWT-based with role checks enforced on the backend.
 - **Rate Limiting**: Implemented to prevent abuse.
 - **Caching**: Redis used for performance optimization.
-- **Recommendations**:
-  - Use HttpOnly cookies for JWT storage to prevent XSS attacks.
-  - Implement input validation (e.g., Joi or Zod) for API payloads.
-  - Add CORS policies for production.
 
 ---
 
