@@ -13,10 +13,13 @@
 This project is a full-stack **music streaming platform** built with a **microservice architecture**. It consists of the following services:
 
 - **User Server**: Handles authentication, user profiles, and playlists using **MongoDB**, **JWT**, and **Redis**.
-- -**Git**:https://github.com/Jayanthmurala/SpotifyFrontend/edit/main/README.md
+  - **Git**: https://github.com/Jayanthmurala/SpotifyUserBackend
 - **Songs Server**: Manages albums and songs with **PostgreSQL**.
+  - **Git**: https://github.com/Jayanthmurala/SpotifySongBackend
 - **Admin Server**: Provides admin panel APIs for content management using **PostgreSQL**.
+  - **Git**: https://github.com/Jayanthmurala/SpotifyAdminBackend
 - **Frontend**: Built with **React + TypeScript**, featuring role-based authentication (User/Admin).
+  - **Git**: https://github.com/Jayanthmurala/SpotifyFrontend 
 
 ![System Architecture](https://ik.imagekit.io/jayanthmurala05/ChatGPT%20Image%20Jul%206,%202025,%2004_17_19%20PM.png?updatedAt=1751798915788)
 
