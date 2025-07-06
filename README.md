@@ -13,6 +13,7 @@
 This project is a full-stack **music streaming platform** built with a **microservice architecture**. It consists of the following services:
 
 - **User Server**: Handles authentication, user profiles, and playlists using **MongoDB**, **JWT**, and **Redis**.
+- -**Git**:https://github.com/Jayanthmurala/SpotifyFrontend/edit/main/README.md
 - **Songs Server**: Manages albums and songs with **PostgreSQL**.
 - **Admin Server**: Provides admin panel APIs for content management using **PostgreSQL**.
 - **Frontend**: Built with **React + TypeScript**, featuring role-based authentication (User/Admin).
